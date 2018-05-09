@@ -1,3 +1,2 @@
 # python-challenge
-Attempt on pythonchallenge.com
-Each level with a python codefile
+Attempt on pythonchallenge.com,each level with a python codefile.
